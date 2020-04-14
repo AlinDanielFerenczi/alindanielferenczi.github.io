@@ -1,9 +1,12 @@
 {
-  "homepage":"https://alindanielferenczi.github.io",
+  "homepage": "https://alindanielferenczi.github.io",
   "name": "alindanielferenczi.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.9.10",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/styles": "^4.9.10",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -40,6 +43,8 @@
     ]
   },
   "devDependencies": {
+    "@types/material-ui": "^0.21.7",
+    "@types/react-tap-event-plugin": "0.0.30",
     "gh-pages": "^2.2.0"
   }
 }
