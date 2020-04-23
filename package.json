@@ -14,8 +14,15 @@
     "@types/node": "^12.12.35",
     "@types/react": "^16.9.34",
     "@types/react-dom": "^16.9.6",
+    "canvasjs": "^1.8.3",
+    "chartist": "^0.11.4",
+    "firebase": "^7.14.1",
     "react": "^16.13.1",
+    "react-chartist": "^0.14.3",
+    "react-charts": "^2.0.0-beta.6",
     "react-dom": "^16.13.1",
+    "react-google-charts": "^3.0.15",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
     "typescript": "^3.7.5"
   },
@@ -45,6 +52,7 @@
   "devDependencies": {
     "@types/material-ui": "^0.21.7",
     "@types/react-tap-event-plugin": "0.0.30",
+    "dotenv": "^8.2.0",
     "gh-pages": "^2.2.0"
   }
 }
